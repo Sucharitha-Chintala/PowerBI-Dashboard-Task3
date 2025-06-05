@@ -23,8 +23,8 @@ Create an interactive Power BI dashboard to analyze sales and profit data from t
 - Dataset from Kaggle: [Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ## 📷 Dashboard Preview
-*![Dashboard](https://github.com/user-attachments/assets/85ee466f-4632-427b-8599-fc86c4d57abb)
-*
+![Dashboard](https://github.com/user-attachments/assets/85ee466f-4632-427b-8599-fc86c4d57abb)
+
 
 ## 🙋‍♀️ Created by
 Sucharitha Chintala | Data Analyst Internship – Task 3
